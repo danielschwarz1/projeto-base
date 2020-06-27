@@ -1,0 +1,59 @@
+// Typography
+$font-family-base: Montserrat;
+$font-family-alternative: Montserrat;
+$font-size: 16px;
+$font-weight-normal: 400;
+$line-height-base: 1.6;
+$body-color: #ccc;
+$body-color-alt: #ccc;
+
+$headings-font-family: $font-family-alternative;
+$headings-font-weight: 700;
+$headings-line-height: 1.1;
+$headings-margin-bottom: 0;
+
+$h1-font-size: 52px;
+$h2-font-size: 43px;
+$h3-font-size: 36px;
+$h4-font-size: 30px;
+$h5-font-size: 25px;
+$h6-font-size: 21px;
+
+$font-icon: 'Font Awesome 5 Pro';
+$font-icon-brands: 'Font Awesome 5 Brands';
+
+// Colors
+$color-brand: #EA3235;
+$blue:        #2BABEE;
+$indigo:      #6610f2;
+$purple:      #8268B1;
+$pink:        #FF5087;
+$red:         #dc3545;
+$orange:      #E16519;
+$yellow:      #FDB32B;
+$green:       #85CF39;
+$teal:        #20c997;
+$cyan:        #17a2b8;
+$gray:        #979797;
+
+// Grids
+$grid-gutter-width: 30px;
+
+$grid-breakpoints: (
+    xs: 0,
+    sm: 600px,
+    md: 800px,
+    lg: 1000px,
+    xl: 1280px
+) !default;
+
+// Containers
+$container-max-widths: (
+    sm: 540px,
+    md: 720px,
+    lg: 960px,
+    xl: 1230px
+) !default;
+
+// Miscellaneous
+$easing: cubic-bezier(0.390, 0.575, 0.565, 1.000);

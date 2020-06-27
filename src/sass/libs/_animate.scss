@@ -1,0 +1,7 @@
+$use-fadeIn: true;
+
+@import "~animate-sass/helpers/mixins";
+@import "~animate-sass/helpers/settings";
+@import "~animate-sass/helpers/base";
+
+@import "~animate-sass/animations/fade-enter/fadeIn";

@@ -1,0 +1,7 @@
+.button {
+    display: inline-flex;
+    &.is-block {
+        display: block;
+        width: 100%;
+    }
+}
