@@ -13,7 +13,7 @@
   "dependencies": {
     "animate-sass": "^0.8.2",
     "bootstrap": "^4.5.0",
-    "gsap": "^3.3.4"
+    "gsap": "^3.6.0"
   },
   "devDependencies": {
     "webpack": "^4.43.0",
